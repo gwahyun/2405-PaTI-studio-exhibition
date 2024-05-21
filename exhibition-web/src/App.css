@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+@keyframes select {
+  0% {
+    background-color: rgba(0, 0,0,0); /* 연한 초록색 */
+  }
+  50% {
+    background-color: rgba(232,155,193,1)
+
+  }
+  100% {
+    background-color: rgba(0,0,0,0)
+z
+  }
+}
+
+.select-effect {
+  animation: select 2s;
+}
+
+@keyframes breathing {
+  0% {
+    color: rgba(0, 0,0,0); /* 연한 초록색 */
+  }
+  50% {
+    color: rgba(80,41,132,1)
+
+  }
+  100% {
+    color: rgba(0, 0, 0, 0); /* 연한 초록색 */
+  }
+}
+
+.breathing-effect {
+  animation: breathing 2s infinite;
+}
