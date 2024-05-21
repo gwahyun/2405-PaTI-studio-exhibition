@@ -17,6 +17,7 @@ width='500' align="center" style='margin-right:15'/>
 
 <img src="https://github.com/gwahyun/2405-PaTI-studio-exhibition/assets/60453182/e6d7e258-da72-478f-a48f-d4d550b3e3f2" width='300' align="center">
 </div>
+
 ---
 
 🛠️ 개발 요구 사항
